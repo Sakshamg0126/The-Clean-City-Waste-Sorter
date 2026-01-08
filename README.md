@@ -5,3 +5,5 @@
 ***Accuracy:*** ~80%  
 
 ***Goal:*** Automate recycling  
+
+***Dataset*** : https://www.kaggle.com/datasets/feyzazkefe/trashnet
